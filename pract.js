@@ -24,7 +24,7 @@ console.log(arr[0])
 console.log(typeof arr)
 
 let person ={
-    name : "pravallika"
+    name : "pravallika",
     age : 18
 
 }
