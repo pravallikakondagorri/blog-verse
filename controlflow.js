@@ -80,7 +80,7 @@ for(let i=5;i>0;i--)
         continue;
 
     }
-    else if(i==2)
+    else if(i===2)
     {
         break;
     }
