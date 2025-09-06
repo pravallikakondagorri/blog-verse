@@ -30,3 +30,8 @@ const sub =(x,y)=>{
     return x-y;
 }
 console.log(sub(20,15))
+function sum(x,y)
+{
+    return x+y;
+}
+let x=5
